@@ -10,4 +10,4 @@ IP-CIDR,17.188.20.0/23,no-resolve
 IP-CIDR6,2620:149:a44::/48,no-resolve
 IP-CIDR6,2403:300:a42::/48,no-resolve
 IP-CIDR6,2403:300:a51::/48,no-resolve
-IP-CIDR6,2a01:b740:a42::/48,no-resolv
+IP-CIDR6,2a01:b740:a42::/48,no-resolve
