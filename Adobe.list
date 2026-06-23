@@ -1,11 +1,11 @@
 # NAME: Adobe
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:16:57
+# UPDATED: 2026-06-23 20:24:57
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 135
-# TOTAL: 137
+# DOMAIN-SUFFIX: 137
+# TOTAL: 139
 DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN-SUFFIX,10xfotolia.com
 DOMAIN-SUFFIX,2o7.net
@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,adobetechcommcallback.com
 DOMAIN-SUFFIX,adobetechcommdemo.com
 DOMAIN-SUFFIX,adobexdplatform.com
 DOMAIN-SUFFIX,assetsadobe.com
+DOMAIN-SUFFIX,astockcdn.net
 DOMAIN-SUFFIX,authorxml.com
 DOMAIN-SUFFIX,bam.nr-data.net
 DOMAIN-SUFFIX,behance.net
@@ -129,6 +130,7 @@ DOMAIN-SUFFIX,revenue-performance-management.com
 DOMAIN-SUFFIX,s2stagehance.com
 DOMAIN-SUFFIX,scene7.com
 DOMAIN-SUFFIX,sign.new
+DOMAIN-SUFFIX,substance3d.com
 DOMAIN-SUFFIX,sundanceignite2016.com
 DOMAIN-SUFFIX,symantec.com
 DOMAIN-SUFFIX,symcb.com
