@@ -1,6 +1,5 @@
 # Tapnow
 DOMAIN,unpkg.com
-DOMAIN,o4509603656630272.ingest.us.sentry.io
 DOMAIN-SUFFIX,adsrvr.org
 DOMAIN-SUFFIX,tapnow.ai
 DOMAIN-SUFFIX,tapnow.art
@@ -9,3 +8,4 @@ DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,ingest.us.sentry.io
