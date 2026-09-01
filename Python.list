@@ -1,7 +1,7 @@
 # Python
 DOMAIN,dualstack.python.map.fastly.net
-DOMAIN,us.aws.cdn.hf.co
-DOMAIN,cas-server.xethub.hf.co
+DOMAIN-SUFFIX,aws.cdn.hf.co
+DOMAIN-SUFFIX,xethub.hf.co
 DOMAIN-SUFFIX,pycon.org
 DOMAIN-SUFFIX,pypa.io
 DOMAIN-SUFFIX,pypi.io
