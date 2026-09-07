@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,casalemedia.com
 # Openart
 DOMAIN-SUFFIX,openart.ai
 # Suno
+DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,suno.ai
 # AnyVoice
 DOMAIN-SUFFIX,anyvoice.net
